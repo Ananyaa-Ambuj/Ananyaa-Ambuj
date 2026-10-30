@@ -52,27 +52,21 @@ Hi, I'm Ananyaa Ambuj
 
 ---
 
+
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://gh-trophy.cdnsoft.net/?username=Ananyaa-Ambuj&theme=tokyonight&no-frame=true"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
+*Working towards new milestones!*
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyaa-Ambuj&theme=tokyo-night&hide_border=true"
-    alt="Contribution Activity Graph"
-  />
-</p>
+Check out my GitHub contribution calendar below!
 
----
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ananyaa-Ambuj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <p align="center">
   <img
@@ -82,25 +76,3 @@ Hi, I'm Ananyaa Ambuj
 </p>
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ananyaa-Ambuj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----![Profile Views](https://komarev.com/ghpvc/?username=Ananyaa-Ambuj&color=blue)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Ananyaa-Ambuj/Ananyaa-Ambuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
