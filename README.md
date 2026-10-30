@@ -53,9 +53,13 @@ Hi, I'm Ananyaa Ambuj
 ---
 
 
+
 ## 🏆 GitHub Trophies
 
-*Working towards new milestones!*
+<p align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</p>
+
 
 ## 📈 Contribution Activity
 
