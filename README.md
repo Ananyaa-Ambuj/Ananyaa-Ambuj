@@ -29,9 +29,32 @@ Hi, I'm Ananyaa Ambuj
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-228B22?style=for-the-badge)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ananyaa-Ambuj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananyaa-Ambuj&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="180" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyaa-Ambuj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</p>
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ananyaa-Ambuj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyaa-Ambuj&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 
 ### 🔝 Top Contributed Repo
