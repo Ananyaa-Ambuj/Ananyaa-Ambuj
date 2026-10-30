@@ -33,29 +33,54 @@ Hi, I'm Ananyaa Ambuj
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananyaa-Ambuj&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Ananyaa-Ambuj&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
 </p>
+
+---
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyaa-Ambuj&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ananyaa-Ambuj&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
-
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananyaa-Ambuj&theme=tokyonight&no-frame=true" />
+  <img
+    src="https://gh-trophy.cdnsoft.net/?username=Ananyaa-Ambuj&theme=tokyonight&no-frame=true"
+    alt="GitHub Trophies"
+  />
 </p>
 
+---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyaa-Ambuj&theme=tokyo-night" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyaa-Ambuj&theme=tokyo-night&hide_border=true"
+    alt="Contribution Activity Graph"
+  />
 </p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Ananyaa-Ambuj&color=blue"
+    alt="Profile Views"
+  />
+</p>
+
 
 
 ### 🔝 Top Contributed Repo
