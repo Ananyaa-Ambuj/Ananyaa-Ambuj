@@ -33,13 +33,13 @@ Hi, I'm Ananyaa Ambuj
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananyaa-Ambuj&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananyaa-Ambuj&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyaa-Ambuj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyaa-Ambuj&layout=compact&theme=tokyonight" />
 </p>
 
 
@@ -47,13 +47,14 @@ Hi, I'm Ananyaa Ambuj
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananyaa-Ambuj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ananyaa-Ambuj&theme=tokyonight&no-frame=true" />
 </p>
+
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyaa-Ambuj&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyaa-Ambuj&theme=tokyo-night" />
 </p>
 
 
