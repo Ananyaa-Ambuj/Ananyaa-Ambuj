@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm Ananyaa Ambuj 
-<br><br>I am a first-year B.Tech student in the Department of Electronics and Communication Engineering at IIT Bhilai. As I begin my engineering journey, I am building a strong foundation in mathematics, programming, and core engineering concepts while adapting to the dynamic environment of IIT.<br><br><br><br>I enjoy understanding how things work, solving challenging problems, and continuously learning new technologies. My interests lie in software development, artificial intelligence, and emerging technologies, and I look forward to exploring these fields through projects, research, and hands-on experiences.<br><br><br><br>Through this journey, I hope to learn from peers, connect with professionals, and contribute to meaningful technological innovations. I believe that engineering is not just about acquiring knowledge but about using it to create solutions that make a positive impact
-
+<br><br>I am a first-year B.Tech student in the Department of Electronics and Communication Engineering at IIT Bhilai. 
 
 ## 🌐 Socials:
 📫 Connect with me on LinkedIn!
